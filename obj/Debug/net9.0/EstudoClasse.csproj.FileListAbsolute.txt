@@ -1,0 +1,14 @@
+C:\Users\jodet\EstudoClasse\bin\Debug\net9.0\EstudoClasse.exe
+C:\Users\jodet\EstudoClasse\bin\Debug\net9.0\EstudoClasse.deps.json
+C:\Users\jodet\EstudoClasse\bin\Debug\net9.0\EstudoClasse.runtimeconfig.json
+C:\Users\jodet\EstudoClasse\bin\Debug\net9.0\EstudoClasse.dll
+C:\Users\jodet\EstudoClasse\bin\Debug\net9.0\EstudoClasse.pdb
+C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\EstudoClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\EstudoClasse.AssemblyInfoInputs.cache
+C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\EstudoClasse.AssemblyInfo.cs
+C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\EstudoClasse.csproj.CoreCompileInputs.cache
+C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\EstudoClasse.dll
+C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\refint\EstudoClasse.dll
+C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\EstudoClasse.pdb
+C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\EstudoClasse.genruntimeconfig.cache
+C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\ref\EstudoClasse.dll
