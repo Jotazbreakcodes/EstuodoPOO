@@ -12,3 +12,4 @@ C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\refint\EstudoClasse.dll
 C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\EstudoClasse.pdb
 C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\EstudoClasse.genruntimeconfig.cache
 C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\ref\EstudoClasse.dll
+C:\Users\jodet\EstudoClasse\obj\Debug\net9.0\EstudoClasse.sourcelink.json
